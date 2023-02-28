@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Álvaro es tonto, osea yo
+## hey
 
 <!--
 **Alonsde7/Alonsde7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
